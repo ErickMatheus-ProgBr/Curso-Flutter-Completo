@@ -38,9 +38,8 @@
 
 // -------------------------------
 
-// se utilizarmos o + na soma, vai dar certo porque vamos esta concatenando dois valores
+// se utilizarmos o + na soma, vai dar certo porque vamos esta concatenando dois valores 
 
 void main(){
   print("0" + "1234");
-  
 }
